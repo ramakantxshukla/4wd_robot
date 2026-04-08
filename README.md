@@ -2,6 +2,9 @@
 
 ## Visualizing Navigation
 
+### Demo
+<video src="assets/demo.webm" controls autoplay muted loop width="100%"></video>
+
 To visualize the robot navigating, run the following commands. 
 
 1. Launch the Gazebo simulation:
